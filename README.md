@@ -1,6 +1,4 @@
-Certainly! Here's a sample README text for the provided code:
 
----
 
 # Roamify Travel Website
 
